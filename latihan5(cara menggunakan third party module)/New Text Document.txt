@@ -1,0 +1,16 @@
+https://youtu.be/WVHkBuiCcIs?si=GXi7Bi_MRBe-zRgV
+
+npm(node pakace manager)
+
+cara inisialisasi npm adalah di dalam folder aplikasi buka terminal/git bash masukkan:
+- npm init/npm init -y(untuk langsung menyetujui semua pengaturan bawaan)
+
+pada package.json "script"{} di gunakan untuk menjalankan app di dalamnya dapat di tambahkan 
+"start": "node app", untuk menjalankan 'node app' jika menuliskan 'npm start' di terminal/git bash.
+untuk menjalankan script di luar standar marus menggunakan perintah 'npm run nama_perintah'
+
+Cara install thirt party module (npm i/install nama module) di tulis di terminal
+Cara uninstall tpm (npm uninstall nama module) di tulis di terminal
+Cara install tpm dengan memilih sendiri versinya (npm i/install nama module@versinya)
+Gunakan "npm install -g nama module" untuk di gunakan secara global (tidak perlu intall lagi Ketika ingin mebuat web lain)
+

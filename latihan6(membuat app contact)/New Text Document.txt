@@ -1,0 +1,1 @@
+Jika menggunakan "new Promises((resolve, reject)) sebaiknya menggunakan fuction  jika lebih dari 1 promise, kalau tidak bisa mengunakan variable "

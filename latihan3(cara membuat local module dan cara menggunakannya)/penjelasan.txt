@@ -1,0 +1,13 @@
+https://youtu.be/9hT29YQuB2U?si=BL4x12GH0RCqRILJ
+
+Node modules : 
+- fungsional yang simple ataupun kompleks yang tersimpan didalam sebuah file javascript, yang dapat kita gunakan 	Kembali pada aplikadi nodejs.
+- setiap modul di dalam node js memiliki konteks nya masing-masing, tidak bisa saling tercampur dengan module lain 	pada lingkup global.
+- menggunakan (module.exports = ) kita bisa menyimpan seluruh code dari satu file, lalu di gunakan di file lain   	menggunakan (nama_variable = require = (./nama_file_asal_module)) 
+- atau di pecah menjadi dua module dalam 1 file (1 module 1 function) dan di panggil secara terpisah menggunakan 	require
+Jenis-jenis nodejs module:
+1. Core modules, module yang telah tersedia di dalam library nodejs dan bisa langsing di panggil untuk digunakan.
+2. Local module, module yang di buat sendiri lalu di gunakan.
+3. Third party modules, module yang di buat oleh orang lain lalu kita gunakan.
+
+link video penjelasan https://youtu.be/9hT29YQuB2U?si=BL4x12GH0RCqRILJ

@@ -1,0 +1,29 @@
+{
+  "name": "8-npm",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS",
+  "homepage": "https://github.com/giovan97/NodeJS#readme",
+  "bugs": {
+    "url": "https://github.com/giovan97/NodeJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovan97/NodeJS.git"
+  },
+  "license": "ISC",
+  "author": "Giovan",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app", 
+    "dev": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
